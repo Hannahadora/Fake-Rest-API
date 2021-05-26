@@ -1,0 +1,78 @@
+{
+  "body": [
+    {
+      "id": "1",
+      "fullname": "Mike Swas",
+      "email": "mikeswas@gmail.com",
+      "mobile-number": "+2348145688368",
+      "address": "No. 2 Mist Street",
+      "gender": "male",
+      "password": "1234578"
+    },
+    {
+      "fullname": "Hannah Chiamaka",
+      "email": "hannah@gmail.com",
+      "mobile-number": "+2348145688368",
+      "address": "No. 4 mgbuoba ",
+      "gender": "female",
+      "password": "1234578",
+      "id": "GnDBvQg"
+    },
+    {
+      "fullname": "Emmanuel T",
+      "email": "em@gmail.com",
+      "mobile-number": "+2348145688368",
+      "address": "No. 4 choba ",
+      "gender": "male",
+      "password": "1234578",
+      "id": "bjUjCbV"
+    },
+    {
+      "fullname": "Hannah Chiamaka",
+      "email": "anna@gmail.com",
+      "mobilenumber": "09058018985",
+      "address": "Mgbuoba Port harcourt",
+      "gender": "female",
+      "password": "23456",
+      "id": "NK8HoPc"
+    },
+    {
+      "fullname": "Hannah Chiamaka",
+      "email": "anna@gmail.com",
+      "mobilenumber": "09058018985",
+      "address": "Mgbuoba Port harcourt",
+      "gender": "female",
+      "password": "23456",
+      "id": "e9TSv4n"
+    },
+    {
+      "fullname": "Hannah Chiamaka",
+      "email": "anna@gmail.com",
+      "mobilenumber": "09058018985",
+      "address": "Mgbuoba Port harcourt",
+      "gender": "female",
+      "password": "23456",
+      "id": "iET7cXQ"
+    },
+    {
+      "fullname": "",
+      "email": "anna@gmail.com",
+      "mobilenumber": "",
+      "address": "",
+      "gender": "",
+      "password": "23456",
+      "errmsg": "",
+      "id": "DeqKRXX"
+    },
+    {
+      "fullname": "",
+      "email": "anna@gmail.com",
+      "mobilenumber": "",
+      "address": "",
+      "gender": "",
+      "password": "23456",
+      "errmsg": "",
+      "id": "T4QkAda"
+    }
+  ]
+}
